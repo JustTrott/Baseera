@@ -1,4 +1,8 @@
-# LINK TO THE CANVA PRESENTATION
+# Welcome to Baseera
+
+A jupyter-notebook showcasing our project that uses quantum annealing in order to find optimally cool and fast paths from point A to B. This is our submission for NYUAD Quantum Computing Hackathon.
+
+# Canva Presentation Link
 
 https://www.canva.com/design/DAGDl-Y0N_o/dj0duSxNOHuOJy9L-G3uow/edit?utm_content=DAGDl-Y0N_o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
